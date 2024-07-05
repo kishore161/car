@@ -1,0 +1,20 @@
+body{
+    background: url(https://cdn-icons-png.freepik.com/256/10274/10274174.png?ga=GA1.1.286767.1720112028&semt=ais_hybrid);
+    color: black;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+marquee{
+    margin-left: 600px;
+    width: 250px;
+}
+
+h1{
+    margin-left: 700px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
